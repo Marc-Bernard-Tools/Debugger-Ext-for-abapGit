@@ -15,10 +15,10 @@ and [ISO Date Format](https://www.iso.org/iso-8601-date-and-time-format.html).
 ### Fixed
 
 
-## Version [1.0.0] - 2022-01-01
+## Version [1.0.0] - 2025-04-23
 
 Initial Release.
 
 
-[Unreleased]: https://github.com/Marc-Bernard-Tools/ABAP-.../compare/1.0.0...main
-[1.0.0]: https://github.com/Marc-Bernard-Tools/ABAP-.../releases/tag/1.0.0
+[Unreleased]: https://github.com/Marc-Bernard-Tools/Debugger-Ext-for-abapGit/compare/1.0.0...main
+[1.0.0]: https://github.com/Marc-Bernard-Tools/Debugger-Ext-for-abapGit/releases/tag/1.0.0
