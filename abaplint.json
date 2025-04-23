@@ -33,6 +33,7 @@
       "checkLocal": false,
       "classDefinition": false,
       "exclude": [".*"],
+      "ignoreTestClasses": true,
       "interfaceDefinition": false,
       "severity": "Error"
     },
@@ -44,7 +45,9 @@
       "allowed": [
         "CLAS",
         "DEVC",
-        "INTF"
+        "INTF",
+        "ENHO",
+        "PROG"
       ],
       "exclude": [],
       "severity": "Error"
@@ -54,7 +57,7 @@
       "severity": "Error"
     },
     "avoid_use": {
-      "break": true,
+      "break": false,
       "defaultKey": true,
       "define": true,
       "describeLines": true,
@@ -195,6 +198,7 @@
       "generateReport": true,
       "generateSubroutine": true,
       "insertReport": true,
+      "insertTextpool": true,
       "kernelCall": true,
       "severity": "Error",
       "systemCall": true
@@ -239,6 +243,7 @@
       "exclude": [],
       "if": true,
       "loop": true,
+      "loopAllowIfSubrc": true,
       "select": true,
       "severity": "Error",
       "try": true,
@@ -724,7 +729,8 @@
     },
     "select_add_order_by": {
       "exclude": [],
-      "severity": "Error"
+      "severity": "Error",
+      "skipForAllEntries": true
     },
     "select_performance": {
       "endSelect": true,
