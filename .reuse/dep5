@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ABAP ...
+Upstream-Name: Debugger Extension for abapGit
 Upstream-Contact: Marc Bernard <hello@marcbernardtools.com>
-Source: https://github.com/Marc-Bernard-Tools/ABAP-...
+Source: https://github.com/Marc-Bernard-Tools/Debugger-Ext-for-abapGit
 
 Files: *
-Copyright: 2023 Marc Bernard <https://marcbernardtools.com/>
+Copyright: 2025 Marc Bernard <https://marcbernardtools.com/>
 License: MIT
